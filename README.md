@@ -2,14 +2,14 @@
 My custom Debian hacking operating systems
 
 # Flavors
-## Air
+## Opal
 The light-weight version of h4ckb0x.
 * Wifi and OSINT Dedicated Operating System
 
-## Water
+## Aquamarine
 * Blue team dedicated tools
 
-## Fire
+## Ruby
 * Red team dedicated tools
 
 ## Amytheyst
