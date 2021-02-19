@@ -14,3 +14,6 @@ The light-weight version of h4ckb0x.
 
 ## Amytheyst
 * This contains all major hacking tools that are currently on the Parrot and Kali Tools lists.
+
+## Emerald
+* Base Operating system with the top 10 hacking tools.
