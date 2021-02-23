@@ -1,7 +1,7 @@
 # h4ckb0x Operating Systems
-My custom Debian hacking operating systems
+My lightweight Debian hacking operating systems
 
-# Flavors
+# Themes
 ## Opal
 The light-weight version of h4ckb0x.
 * Wifi and OSINT Dedicated Operating System
